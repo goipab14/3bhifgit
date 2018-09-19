@@ -1,2 +1,6 @@
 # 3bhifgit
-My third git repository wow
+My third git repository
+
+Franz Backhaus
+
+Pascal Goisek
